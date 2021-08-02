@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vyasp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vyasp\\.nuget\\packages"
+    ]
+  }
+}

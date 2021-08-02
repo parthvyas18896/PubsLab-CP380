@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP380-PubsWeb", "CP380-PubsWeb\CP380-PubsWeb.csproj", "{D2DD250C-94A3-4D5B-9E8B-5DA084D417D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CP380-PubsWeb", "CP380-PubsWeb\CP380-PubsWeb.csproj", "{D2DD250C-94A3-4D5B-9E8B-5DA084D417D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CP380-PubsLab", "CP380-PubsLab\CP380-PubsLab.csproj", "{E0E49764-A1B6-4302-84B8-E0AEB5344EBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D2DD250C-94A3-4D5B-9E8B-5DA084D417D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2DD250C-94A3-4D5B-9E8B-5DA084D417D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2DD250C-94A3-4D5B-9E8B-5DA084D417D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0E49764-A1B6-4302-84B8-E0AEB5344EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E49764-A1B6-4302-84B8-E0AEB5344EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E49764-A1B6-4302-84B8-E0AEB5344EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E49764-A1B6-4302-84B8-E0AEB5344EBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
